@@ -1,4 +1,4 @@
-# new project to learn 
-add reporestory by VS code 
-# to add project by local 
-local means without coming to github account 
+# hii 
+welcome everyone 
+# my self programmer 
+i will teach you GIT AND GIT HUB
